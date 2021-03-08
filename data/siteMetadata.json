@@ -5,7 +5,7 @@
   "description": "A blog I may use.",
   "language": "en-us",
   "siteUrl": "https://tailwind-nextjs-starter-blog.vercel.app",
-  "siteRepo": "https://github.com/timlrx/tailwind-nextjs-starter-blog",
+  "siteRepo": "https://github.com/s1dequest/tailwind-nextjs-starter-blog",
   "image": "/static/images/avatar.png",
   "socialBanner": "/static/images/twitter-card.png",
   "email": "address@yoursite.com",
